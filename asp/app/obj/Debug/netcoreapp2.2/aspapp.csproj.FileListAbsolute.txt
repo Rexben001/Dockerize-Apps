@@ -1,0 +1,11 @@
+/home/rexben/app/bin/Debug/netcoreapp2.2/aspapp.deps.json
+/home/rexben/app/bin/Debug/netcoreapp2.2/aspapp.runtimeconfig.json
+/home/rexben/app/bin/Debug/netcoreapp2.2/aspapp.runtimeconfig.dev.json
+/home/rexben/app/bin/Debug/netcoreapp2.2/aspapp.dll
+/home/rexben/app/bin/Debug/netcoreapp2.2/aspapp.pdb
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.csprojAssemblyReference.cache
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.csproj.CoreCompileInputs.cache
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.AssemblyInfoInputs.cache
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.AssemblyInfo.cs
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.dll
+/home/rexben/app/obj/Debug/netcoreapp2.2/aspapp.pdb
